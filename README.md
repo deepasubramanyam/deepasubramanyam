@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepa Subramanyam</h1>
 <h3 align="center">Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepasubramanyam" alt="deepasubramanyam" /></a> </p>
+- 📫 How to reach me **deepakonangi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepasubramanyam&show_icons=true&locale=en&layout=compact" alt="deepasubramanyam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepasubramanyam&show_icons=true&locale=en" alt="deepasubramanyam" /></p>
+
