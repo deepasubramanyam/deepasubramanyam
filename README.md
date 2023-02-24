@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepa Subramanyam</h1>
-<h3 align="center">DevOps | Developer | Open Source Contributor</h3>
+<h3 align="center"> Developer | Open Source Contributor</h3>
 
 - 📫 How to reach me **deepakonangi@gmail.com**
 
