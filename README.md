@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepa Subramanyam</h1>
+<h1 align="center">Hi 👋, I'm Deepa Konangi</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 - 📫 How to reach me **deepakonangi@gmail.com**
